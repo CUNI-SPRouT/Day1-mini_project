@@ -1,0 +1,10 @@
+plot1_v1.png
+plot1_v2.png
+plot1_final.png
+plot1_final_FINAL.png
+results_old.csv
+results_new.csv
+results_newest.csv
+model_output_old.txt
+analysis_backup/
+temp_files/

@@ -1,0 +1,25 @@
+Some random notes about the project
+
+- Remember to update the analysis
+- Check if the data is correct
+- The plot colors might need to be changed
+- Ask supervisor about the threshold value
+- TODO: clean up the code
+- TODO: organize files better
+- TODO: add proper comments
+
+Data sources:
+- data_file1.csv: from experiment in January
+- measurements.csv: downloaded from lab computer
+
+Issues:
+- Script doesn't run on other computers
+- Paths are hardcoded
+- Missing some package installations
+- Need to document better
+
+Future work:
+- Make it more reproducible
+- Add proper folder structure
+- Use relative paths
+- Document package versions
